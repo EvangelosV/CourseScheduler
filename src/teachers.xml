@@ -1,0 +1,46 @@
+<Teachers>
+    <Teacher>
+        <Code>T001</Code>
+        <Name>Γεώργιος Παπαδόπουλος</Name>
+        <Courses>NEO101, NEO102, NEO103</Courses>
+        <MaxDailyHours>5</MaxDailyHours>
+        <MaxWeeklyHours>20</MaxWeeklyHours>
+    </Teacher>
+    <Teacher>
+        <Code>T002</Code>
+        <Name>Μαρία Κωνσταντίνου</Name>
+        <Courses>ANC101, ANC102, ANC103</Courses>
+        <MaxDailyHours>5</MaxDailyHours>
+        <MaxWeeklyHours>20</MaxWeeklyHours>
+    </Teacher>
+    <Teacher>
+        <Code>T003</Code>
+        <Name>Αναστασία Ιωαννίδου</Name>
+        <Courses>MATH101, MATH102, MATH103</Courses>
+        <MaxDailyHours>5</MaxDailyHours>
+        <MaxWeeklyHours>20</MaxWeeklyHours>
+    </Teacher>
+    <Teacher>
+        <Code>T004</Code>
+        <Name>Δημήτρης Ανδρέου</Name>
+        <Courses>PHY101, PHY102, PHY103</Courses>
+        <MaxDailyHours>5</MaxDailyHours>
+        <MaxWeeklyHours>18</MaxWeeklyHours>
+    </Teacher>
+    <Teacher>
+        <Code>T005</Code>
+        <Name>Σταυρούλα Καραγιάννη</Name>
+        <Courses>CHEM102, CHEM103, BIO101, BIO102, BIO103</Courses>
+        <MaxDailyHours>4</MaxDailyHours>
+        <MaxWeeklyHours>16</MaxWeeklyHours>
+    </Teacher>
+    
+    <!-- Extend list up to T025 with similar pattern and unique names -->
+    <Teacher>
+        <Code>T025</Code>
+        <Name>Ιωάννης Αποστόλου</Name>
+        <Courses>HIST101, HIST102, HIST103</Courses>
+        <MaxDailyHours>5</MaxDailyHours>
+        <MaxWeeklyHours>20</MaxWeeklyHours>
+    </Teacher>
+</Teachers>

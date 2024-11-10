@@ -1,0 +1,144 @@
+<Lessons>
+    <!-- Νεοελληνική Γλώσσα και Γραμματεία -->
+    <Lesson>
+        <Code>NEO101</Code>
+        <Name>Νεοελληνική Γλώσσα και Γραμματεία - Γλωσσική Διδασκαλία</Name>
+        <GradeLevel>A</GradeLevel>
+        <HoursPerWeek>3</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>NEO102</Code>
+        <Name>Νεοελληνική Γλώσσα και Γραμματεία - Γλωσσική Διδασκαλία</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>NEO103</Code>
+        <Name>Νεοελληνική Γλώσσα και Γραμματεία - Γλωσσική Διδασκαλία</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>NEO_LIT102</Code>
+        <Name>Νεοελληνική Λογοτεχνία</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>NEO_LIT103</Code>
+        <Name>Νεοελληνική Λογοτεχνία</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+
+    <!-- Αρχαία Ελληνική Γλώσσα και Γραμματεία -->
+    <Lesson>
+        <Code>ANC101</Code>
+        <Name>Αρχαία Ελληνική Γλώσσα</Name>
+        <GradeLevel>A</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>ANC102</Code>
+        <Name>Αρχαία Ελληνική Γλώσσα</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>ANC103</Code>
+        <Name>Αρχαία Ελληνική Γλώσσα</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>ANC_TEXT102</Code>
+        <Name>Αρχαία Ελληνικά Κείμενα από Μετάφραση</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>ANC_TEXT103</Code>
+        <Name>Αρχαία Ελληνικά Κείμενα από Μετάφραση</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+
+    <!-- Μαθηματικά -->
+    <Lesson>
+        <Code>MATH101</Code>
+        <Name>Μαθηματικά</Name>
+        <GradeLevel>A</GradeLevel>
+        <HoursPerWeek>4</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>MATH102</Code>
+        <Name>Μαθηματικά</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>4</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>MATH103</Code>
+        <Name>Μαθηματικά</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>4</HoursPerWeek>
+    </Lesson>
+
+    <!-- Φυσική -->
+    <Lesson>
+        <Code>PHY101</Code>
+        <Name>Φυσική</Name>
+        <GradeLevel>A</GradeLevel>
+        <HoursPerWeek>1</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>PHY102</Code>
+        <Name>Φυσική</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>PHY103</Code>
+        <Name>Φυσική</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+
+    <!-- Χημεία -->
+    <Lesson>
+        <Code>CHEM102</Code>
+        <Name>Χημεία</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>1</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>CHEM103</Code>
+        <Name>Χημεία</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>2</HoursPerWeek>
+    </Lesson>
+
+    <!-- Βιολογία -->
+    <Lesson>
+        <Code>BIO101</Code>
+        <Name>Βιολογία</Name>
+        <GradeLevel>A</GradeLevel>
+        <HoursPerWeek>1</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>BIO102</Code>
+        <Name>Βιολογία</Name>
+        <GradeLevel>B</GradeLevel>
+        <HoursPerWeek>1</HoursPerWeek>
+    </Lesson>
+    <Lesson>
+        <Code>BIO103</Code>
+        <Name>Βιολογία</Name>
+        <GradeLevel>C</GradeLevel>
+        <HoursPerWeek>1</HoursPerWeek>
+    </Lesson>
+
+    <!-- Remaining courses (Geography, History, Religion, etc.) -->
+    <!-- Full list based on screenshot data -->
+    <!-- ... -->
+
+</Lessons>
